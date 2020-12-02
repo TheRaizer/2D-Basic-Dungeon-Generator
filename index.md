@@ -2,7 +2,7 @@
 {% include youtubePlayer.html id="TbBCxSujAT0" %}
 
 ## Images of the Rooms
-![Alt text](Room-Generator/_includes/Rooms_Sheet.png?raw=true "Rooms")
+![alt text](https://github.com/TheRaizer/Room-Generator/blob/gh-pages/_includes/Rooms-Sheet.png?raw=true)
 
 ## Room Types
 These room types represent where each room has an opening. For example if a room is of type up it means it has an opening above it.
